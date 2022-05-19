@@ -1,0 +1,33 @@
+# Created at 2022-05-18T14:26:58.147
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+
+# Created at 2022-05-18T14:26:58.148
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+
+# Created at 2022-05-18T14:26:58.149
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+
+# Created at 2022-05-18T14:26:59.036
+��� 18, 2022 2:26:59 PM org.junit.platform.launcher.core.LauncherConfigurationParameters loadClasspathResource
+
+# Created at 2022-05-18T14:26:59.037
+INFO: Loading JUnit Platform configuration parameters from classpath resource [file:/C:/Users/79997/IdeaProjects/selenide_project/target/test-classes/junit-platform.properties].
+
+# Created at 2022-05-18T14:27:03.040
+��� 18, 2022 2:27:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+
+# Created at 2022-05-18T14:27:03.041
+INFO: Detected dialect: W3C
+
+# Created at 2022-05-18T14:27:03.188
+��� 18, 2022 2:27:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+
+# Created at 2022-05-18T14:27:03.189
+WARNING: Unable to find an exact match for CDP version 101, so returning the closest version found: 99
+
+# Created at 2022-05-18T14:27:03.189
+��� 18, 2022 2:27:03 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+
+# Created at 2022-05-18T14:27:03.190
+INFO: Found CDP implementation for version 101 of 99
+

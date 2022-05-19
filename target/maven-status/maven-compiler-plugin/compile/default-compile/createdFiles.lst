@@ -1,0 +1,9 @@
+pages\loans\CarLoansPage.class
+common\CommonAction.class
+pages\telecomunications\MobilePhoneReplenishmentPage.class
+constants\Constant$MobileReplenishmentTestDate.class
+constants\Constant$Urls.class
+constants\Constant.class
+pages\base\BasePage.class
+common\Config.class
+constants\Constant$TimeoutVariables.class
